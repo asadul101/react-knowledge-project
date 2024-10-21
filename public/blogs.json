@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "title": "Exploring the Future of AI",
+      "author": "Sophia Reynolds",
+      "author_img": "https://i.ibb.co.com/xXY7TKZ/asad.jpg",
+      "cover_img": "https://i.ibb.co.com/MnpS5JF/fake-1.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": 6,
+      "hashtags": ["#AI", "#Technology", "#Innovation"]
+    },
+    {
+      "id": "002",
+      "title": "The Art of Minimalist Living",
+      "author": "Liam Brooks",
+      "author_img": "https://i.ibb.co.com/xXY7TKZ/asad.jpg",
+      "cover_img": "https://i.ibb.co.com/PCh6mNR/fake-2.jpg",
+      "posted_date": "2024-09-25",
+      "reading_time": 8,
+      "hashtags": ["#Minimalism", "#Lifestyle", "#Simplicity"]
+    },
+    {
+      "id": "003",
+      "title": "A Journey Through Time: Historical Landmarks",
+      "author": "Emily Carter",
+      "author_img": "https://i.ibb.co.com/xXY7TKZ/asad.jpg",
+      "cover_img": "https://i.ibb.co.com/tXYNdWd/fake-3.jpg",
+      "posted_date": "2024-08-12",
+      "reading_time": 10,
+      "hashtags": ["#History", "#Travel", "#Culture"]
+    },
+    {
+      "id": "004",
+      "title": "Mastering the Art of Home Gardening",
+      "author": "Noah James",
+      "author_img": "https://i.ibb.co.com/xXY7TKZ/asad.jpg",
+      "cover_img": "https://i.ibb.co.com/GvCxhBp/fake-4.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 7,
+      "hashtags": ["#Gardening", "#DIY", "#Sustainability"]
+    },
+    {
+      "id": "005",
+      "title": "The Rise of Sustainable Fashion",
+      "author": "Olivia Mitchell",
+      "author_img": "https://i.ibb.co.com/xXY7TKZ/asad.jpgg",
+      "cover_img": "https://i.ibb.co.com/MnpS5JF/fake-1.jpg",
+      "posted_date": "2024-07-30",
+      "reading_time": 5,
+      "hashtags": ["#Fashion", "#Sustainability", "#EcoFriendly"]
+    }
+  ]
+  
