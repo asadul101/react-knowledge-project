@@ -12,7 +12,7 @@ const Bloges = ({handleClickBtn,handleBookmarkTime}) => {
     },[])
     return (
         <div className="md:w-2/3">
-            <h1 className="text-3xl">Bloges {bloges.length}</h1>
+            <h1 className="text-3xl ml-10">Bloges {bloges.length}</h1>
             {
                 bloges.map(blog=><Blog 
                     key={blog.id} blog={blog}
